@@ -1,0 +1,1 @@
+{"rule":"PATCH","sentence":"^\\QLa version mineure( le deuxième numéro)\nLa version patch (le troisième numéro)\\E$"}

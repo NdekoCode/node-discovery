@@ -1,0 +1,7 @@
+node_modules
+.idea
+copy.mp4
+*.env
+file-video.mp4
+*.mp4
+/**/*.mp4
