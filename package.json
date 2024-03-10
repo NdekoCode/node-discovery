@@ -1,0 +1,10 @@
+{
+  "name": "node-discovery",
+  "version": "1.0.0",
+  "description": "\"Discover in dept how node.js works\"",
+  "main": "index.js",
+  "repository": "https://github.com/NdekoCode/node-discovery.git",
+  "author": "Ndekocode <arickbulakali@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
